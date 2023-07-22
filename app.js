@@ -10,7 +10,7 @@ dotenv.config();
 const homeStartingContent = "Welcome to WeBlog, a virtual haven for aspiring writers and passionate bloggers. Unleash your creativity and express your unique voice on our platform. Seamlessly compose and publish your captivating blog posts, sharing your insights, stories, and expertise with the world. Join our community of wordsmiths and let your thoughts paint a masterpiece on this digital canvas of ideas.";
 const aboutContent = "Welcome to WeBlog, a dynamic platform designed to empower individuals to share their voices and ideas with the world. Whether you're a seasoned writer or a novice storyteller, this is your space to unleash your creativity and craft compelling blog posts.Whether you want to share your knowledge, inspire others, or ignite meaningful discussions, WeBlog provides the canvas for your thoughts to flourish. Start your blogging journey today and let your creativity soar on WeBlog.";
 
-const contactContent = "We would love to hear from you at WeBlog! If you have any questions, suggestions, or simply want to connect, feel free to reach out. Our team is dedicated to providing you with the best blogging experience.You can email us at sinumang20@gmail.com or call us at our customer executive number:9065698814";
+const contactContent = "We would love to hear from you at WeBlog! If you have any questions, suggestions, or simply want to connect, feel free to reach out. Our team is dedicated to providing you with the best blogging experience.You can email us at ashish959m@gmail.com or call us at our customer executive number:6202669332";
 
 const app = express();
 
